@@ -13,6 +13,8 @@
 - [ ] Machine Learning with Python
 - [ ] Applied Data Science Capstone
 
+## Data Science
+
 ### Machine Learning
 [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
 
