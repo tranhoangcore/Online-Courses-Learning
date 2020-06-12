@@ -16,8 +16,8 @@
 ### Machine Learning
 [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
 
-- [x] Neural Networks and Deep Learning
-- [x] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+- [x] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- [x] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
 - [x] Structuring Machine Learning Projects
 - [x] Convolutional Neural Networks
 - [x] Sequence Models
