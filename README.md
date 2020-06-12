@@ -22,3 +22,5 @@
 - [x] Convolutional Neural Networks
 - [x] Sequence Models
 
+## Programming Language
+[**Python for Everybody Specialization**](https://www.coursera.org/specializations/python)
